@@ -84,7 +84,7 @@ GEM
       racc (~> 1.4)
     pg (0.17.1)
     racc (1.6.0)
-    rack (1.6.9)
+    rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.7.1)
